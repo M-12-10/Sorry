@@ -232,11 +232,11 @@
         <div class="apology-box">
             <h1>🌸 My Dearest Maryam Arif 🌸</h1>
             <div class="message">
-                My Precious Meri Jaan,<br><br>
-                I'm so sorry for waking up late! 😭💔<br>
-                You're my sunshine, my moon, my entire universe! 🌙☀️🌍<br>
-                I promise to be your human alarm clock from now on! ⏰💖<br><br>
-                Will my beautiful queen please forgive her devoted partner? 👑🙏
+                Meri Pyaari Jaan,<br><br>
+                I am so sorry for waking up late! 😭💔<br>
+                Especially when you weren't feeling good, made u miss me too :(<br>
+                Pakka Promise it won't happen again!!!<br><br>
+                Will my beautiful princess please forgive her bongu? 
             </div>
             <button class="forgive-button" onclick="forgiveMe()">Click Here to Forgive Me 💝</button>
         </div>
@@ -290,10 +290,10 @@
             box.innerHTML = `
                 <h1>Thank You My Love! 💞</h1>
                 <div class="message">
-                    Your forgiveness makes my heart sing! 🎶💕<br>
-                    I love you more than all the stars in the sky! 🌟🌌<br>
-                    Let's make pinky promise for forever! 🤞🌸<br>
-                    (I'll wake up with 1000 kisses tomorrow!) 💋💋💋
+                    Twaddi maafi is everything to me 💕<br>
+                    I love you more than anything or anyone in this entire world!!!<br>
+                    Hope my Cutu feels better soon 🌸<br>
+                    Can't wait to wake up next to you with a thousand kisses everyday💋
                 </div>
                 <div style="font-size: 3rem; margin-top: 1rem">${'💖'.repeat(10)}</div>
             `;
